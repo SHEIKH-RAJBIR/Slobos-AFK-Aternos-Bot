@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "activator",
+    "username": "DEV",
     "password": "",
     "type": "offline"
   },
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.gg/SJzKVnKfF",
     "events": {
       "connect": true,
       "disconnect": true,
